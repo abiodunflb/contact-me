@@ -6,7 +6,7 @@
 }
 
 body{
-	background:linear-gradient(red,white);
+	background:linear-gradient(red,white) no-repeat;
 }
 .container{
 	margin:30px auto;
