@@ -1,0 +1,10 @@
+.container {
+font-family:verdana;
+margin: 30px auto ;
+padding: 30px;
+background: #4D6879;  /*change*/
+font-size: 14px;
+width:100%;
+max-width:500px;
+box-sizing: border-box;
+}
